@@ -285,6 +285,6 @@ Bei Problemen:
 3. Nachbearbeitung problematischer Karten
 4. Veröffentlichung im Archivkatalog
 
----
-
-**Viel Erfolg mit der Digitalisierung! 🎵📚**
+*** WICHTIGE INFO ***
+- Das Haupt-Skript sowie alle zugehörigen Files und Dokumentationen wurden mit Unterstützung von KI-Tools erstellt (Claude Sonnet 4,5 sowie ChatGPT)
+  
