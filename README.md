@@ -285,6 +285,10 @@ Bei Problemen:
 3. Nachbearbeitung problematischer Karten
 4. Veröffentlichung im Archivkatalog
 
-*** WICHTIGE INFO ***
+**WICHTIGE INFO**
 - Das Haupt-Skript sowie alle zugehörigen Files und Dokumentationen wurden mit Unterstützung von KI-Tools erstellt (Claude Sonnet 4,5 sowie ChatGPT)
+- Bitte je nach eigenem Anwendungsfall Skripte, Pfade und Dateibenennungen anpassen
+- Workflow wird hier über Open-Router API abgewickelt
+- kostenpflichtiger Workflow (hier ca. 2.649 + 1.000 Tokens = ~ 0,0011 $)
+  
   
