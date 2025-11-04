@@ -291,5 +291,7 @@ Bei Problemen:
 - Workflow wird hier über Open-Router API abgewickelt
 - kostenpflichtiger Workflow (hier ca. 2.649 für den Prompt + 1.000 Tokens für die Fertigstellung der Datenverarbeitung / pro JPG = ~ 0,0011 $ / pro Karte) (Stand: 01.11.2025)
 - Gesamtkosten der Verarbeitung aller 43.372 Karten belief sich hier auf ca. 17,60 $.
+- alle Karteikarten wurden durch das Archiv zur Veröffentlichung im Web freigegeben, damit späterhin eine vollumfängliche Nachnutzbarkeit (Möglichkeit der webbasierten Recherche über den gesamten Bestand) der Sammlungsinformationen für Interessierte möglich ist
+- adaptive Vorgehensweisen bei anderen Beständen aus GLAM-Institutionen müssten ebenso die freie Nachnutzung der Digitalisate erfüllen, anderenfalls müsste die Verarbeitung über eine lokale OCR-Anwendung bzw. loakle API (nicht frei zugänglich!) angepasst werden (!) 
   
   
