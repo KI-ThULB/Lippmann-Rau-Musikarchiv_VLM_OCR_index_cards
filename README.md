@@ -1,6 +1,6 @@
-# Lippmann-Rau Archiv OCR - Multi-Batch-Verarbeitung
+# Lippmann-Rau Archiv OCR - Multi-Batch-Verarbeitung via VLM
 
-Automatisierte Metadaten-Extraktion von ~43.000 digitalisierten Karteikarten mit Qwen VL.
+Automatisierte Metadaten-Extraktion von 43.372 digitalisierten Karteikarten (JPGs) mit dem Vision Language Model qwen3-vl-8b-instruct. Verarbeitung wird in diesem Workflow über die OpenRouter API kostenpflichtig abgwickelt. Mehr hierzu: Siehe **WICHTIGE INFO** am Ende. 
 
 ## 📋 Übersicht
 
@@ -289,6 +289,7 @@ Bei Problemen:
 - Das Haupt-Skript sowie alle zugehörigen Files und Dokumentationen wurden mit Unterstützung von KI-Tools erstellt (Claude Sonnet 4,5 sowie ChatGPT)
 - Bitte je nach eigenem Anwendungsfall Skripte, Pfade und Dateibenennungen anpassen
 - Workflow wird hier über Open-Router API abgewickelt
-- kostenpflichtiger Workflow (hier ca. 2.649 + 1.000 Tokens = ~ 0,0011 $)
+- kostenpflichtiger Workflow (hier ca. 2.649 für den Prompt + 1.000 Tokens für die Fertigstellung der Datenverarbeitung / pro JPG = ~ 0,0011 $ / pro Karte) (Stand: 01.11.2025)
+- Gesamtkosten der Verarbeitung aller 43.372 Karten belief sich hier auf ca. 17,60 $.
   
   
